@@ -1,4 +1,4 @@
-# TRINIT_ByteBusters_ML 
+![LIME_commenting](https://github.com/PRATEEK-VERNEKAR/TRINIT_ByteBusters_ML/assets/107637873/8f55b8df-23b6-4e62-8d37-f6420fdfc1c8)# TRINIT_ByteBusters_ML 
 
 ## Video Link
 https://drive.google.com/file/d/1TcGdGBmZaJvctPvitZOddEsPduOl6VCY/view?usp=drive_link
@@ -43,6 +43,12 @@ This repository contains codes and documentation for a project focused on the id
 - Contains Python code used to scrape tweets from Twitter.
 
 ## Documentation
+
+### SHAP Results
+- The SHAP(SHapley Additive exPlanations) for all 3 sub models of Model-2 with visual diagram
+
+### LIME Results
+- The LIME(Local interpretable model-agnostic explanations) for all 3 sub models of Model-2
 
 ### Architecture Design
 - PDF document detailing the architecture of the project.
