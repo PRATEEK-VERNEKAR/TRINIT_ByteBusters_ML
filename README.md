@@ -21,9 +21,9 @@ This repository contains codes and documentation for a project focused on the id
 - **Model2**
   - Contains code for classifying the type of sexual harassment.
   - Subfolders:
-    - **Model2_part1**: Prediction of whether there is Commenting involved.
-    - **Model2_part2**: Prediction of whether there is Staring involved.
-    - **Model2_part3**: Prediction of whether there is Touching involved.
+    - **Model2_part1**: Prediction of whether there is Commenting involved. (84% Accuracy)
+    - **Model2_part2**: Prediction of whether there is Staring involved.  (82% Accuracy)
+    - **Model2_part3**: Prediction of whether there is Touching involved.  (79.98% Accuracy)
 
 ### WebApp
 - **FlaskServer**
