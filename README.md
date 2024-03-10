@@ -52,6 +52,9 @@ This repository contains codes and documentation for a project focused on the id
 ### LIME Results
 - The LIME(Local interpretable model-agnostic explanations) for all 3 sub models of Model-2
 
+### Humming Score
+- The Humming Score of this model is aroun 85 - 90 %
+
 ### Architecture Design
 - PDF document detailing the architecture of the project.
 
@@ -70,7 +73,7 @@ This repository contains codes and documentation for a project focused on the id
 ## How to Use
 1. Clone the repository.
 2. Navigate to the MachineLearning Folder to use the BlackBox of three ML models
-   - In Model1 Folder 
-4. Ready to use
+3. Navigate to the WebApp Folder to use the MERN Stack Application
+4. Navigate to the WebScrapping Folder to use the Twitter Tweet Scrapping Data
 
 
