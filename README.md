@@ -32,7 +32,7 @@ This repository contains codes and documentation for a project focused on the id
 - **NodeServer**
   - Contains code for connecting to MongoDB database and handling API requests.
   - Files:
-    - `app.js`: Node.js file handling API requests and sending responses.
+    - `app.js`: File handling API requests and sending responses.
 
 - **React-Server**
   - Contains CSS and React components.
