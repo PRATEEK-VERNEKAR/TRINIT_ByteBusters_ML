@@ -61,7 +61,8 @@ This repository contains codes and documentation for a project focused on the id
 
 ## How to Use
 1. Clone the repository.
-2. Navigate to the desired code folder (e.g., MachineLearning/Model1).
-3. Ready to use
+2. Navigate to the MachineLearning Folder to use the BlackBox of three ML models
+   - In Model1 Folder 
+4. Ready to use
 
 
