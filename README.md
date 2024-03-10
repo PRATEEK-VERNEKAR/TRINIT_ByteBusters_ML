@@ -15,8 +15,8 @@ This repository contains codes and documentation for a project focused on the id
 - **Model1**
   - Contains code for training a DistilBERT model to identify sexual harassment in text.
   - Files:
-    - `train.py`: Code for training the DistilBERT model.
-    - `predict.py`: Code for making predictions using the trained model.
+    - Code for training the DistilBERT model.
+    - Code for making predictions using the trained model.
 
 - **Model2**
   - Contains code for classifying the type of sexual harassment.
