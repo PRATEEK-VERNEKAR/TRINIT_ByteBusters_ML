@@ -96,16 +96,16 @@ def predict():
 
         print("Model 1 = ",result_model1)
 
-        # if result_model1 == 1:
-        if True:
+        if result_model1 == 1:
             result_model2, result_model3, result_model4 = predict_model234(text)
 
+            severity=(result_model2+result_model3+result_model2)/3
 
             response = {
                 "model2": str(result_model2),
                 "model3": str(result_model3),
                 "model4": str(result_model4),
-                "severity":1
+                "severity":severity
             }
         else:
             response = {"message": "Not applicable"}
