@@ -1,4 +1,4 @@
-![LIME_commenting](https://github.com/PRATEEK-VERNEKAR/TRINIT_ByteBusters_ML/assets/107637873/8f55b8df-23b6-4e62-8d37-f6420fdfc1c8)# TRINIT_ByteBusters_ML 
+# TRINIT_ByteBusters_ML 
 
 ## Video Link
 https://drive.google.com/file/d/1TcGdGBmZaJvctPvitZOddEsPduOl6VCY/view?usp=drive_link
